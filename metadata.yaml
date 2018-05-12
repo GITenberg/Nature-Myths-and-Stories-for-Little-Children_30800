@@ -1,0 +1,31 @@
+_repo: Nature-Myths-and-Stories-for-Little-Children_30800
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30800-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Cooke, Flora J. (Flora Juliette)
+    alias: Cooke, Flora Juliette
+    birthdate: 1864
+    deathdate: 1953
+    gutenberg_agent_id: '34831'
+    url: http://www.gutenberg.org/2009/agents/34831
+description: ''
+gutenberg_issued: '2009-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30800'
+  lccn: '43035775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature -- Mythology -- Juvenile literature'
+- !lcsh 'Children''s stories'
+- !lcsh 'Mythology, Classical -- Juvenile literature'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcc 'PZ'
+title: Nature Myths and Stories for Little Children
+url: http://www.gutenberg.org/ebooks/30800
